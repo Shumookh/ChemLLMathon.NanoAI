@@ -1,5 +1,4 @@
 # ChemLLMathon.NanoAI
-AI will capture all analytical data (H-NMR, C-NMR, GC, MS, IR,) to identify the purity of Propylene Oxide along side with the possible impurities. The AI tool will improve time efficiency of analyzing samples as it needs only one analytical data to predict the full unknown materials.
 ![1](https://github.com/user-attachments/assets/8a263793-ed54-43cf-baa2-753767d5bec5)
 ![2](https://github.com/user-attachments/assets/58fb3f0e-f783-4537-ade6-e4ee2f9369c8)
 ![3](https://github.com/user-attachments/assets/c7324400-bd9d-40fa-8837-bbd13b94c324)
